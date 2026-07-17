@@ -1,0 +1,21 @@
+query,claim,judge_verdict,human_verdict
+Tell me everything about how high blood pressure is managed.,Excess alcohol is a risk factor for hypertension.,SUPPORTED,SUPPORTED
+What headache warning sign means it might not just be a migraine?,A new neurological deficit may indicate a secondary cause of the headache.,SUPPORTED,SUPPORTED
+Give me the full picture on type 2 diabetes.,Diagnosis of Type 2 Diabetes is based on HbA1c ≥6.5%.,SUPPORTED,SUPPORTED
+How many weeks before iron pills fix low hemoglobin?,The information about hemoglobin rise after treatment with oral iron salts is found in source anemia.md.,SUPPORTED,UNSUPPORTED
+What blood pressure reading counts as stage 2 hypertension?,The blood pressure reading for stage 2 hypertension is according to a source referenced as [1].,UNSUPPORTED,UNSUPPORTED
+"Explain asthma to me — causes, symptoms, and treatment.",Combination ICS-long-acting beta-agonist therapy is recommended for moderate-to-severe asthma.,SUPPORTED,SUPPORTED
+What's the most common germ behind community-acquired pneumonia?,Streptococcus pneumoniae is the most common bacterial cause of Community-Acquired Pneumonia (CAP).,SUPPORTED,SUPPORTED
+Give me the full picture on type 2 diabetes.,Type 2 Diabetes Mellitus leads to chronic hyperglycemia.,SUPPORTED,SUPPORTED
+What should I know about community-acquired pneumonia overall?,Treatment for outpatient CAP usually involves a macrolide or doxycycline in healthy adults.,SUPPORTED,SUPPORTED
+Which single blood test best confirms iron-deficiency anemia?,The single blood test that best confirms iron-deficiency anemia is low serum ferritin.,SUPPORTED,SUPPORTED
+"Explain asthma to me — causes, symptoms, and treatment.",Asthma symptoms can worsen at night.,SUPPORTED,SUPPORTED
+What test result pattern is typical for iron-deficiency anemia's red cells?,Iron-deficiency anemia's red cells have a low Mean Corpuscular Volume (MCV).,SUPPORTED,SUPPORTED
+What's usually the first medicine started for type 2 diabetes?,"The first-line management for type 2 diabetes typically includes metformin, unless metformin is contraindicated.",SUPPORTED,SUPPORTED
+What's the most common germ behind community-acquired pneumonia?,Streptococcus pneumoniae is a common cause of Community-Acquired Pneumonia (CAP).,SUPPORTED,SUPPORTED
+Give me the full picture on type 2 diabetes.,Regular monitoring for microvascular complications is essential in Type 2 Diabetes management.,SUPPORTED,SUPPORTED
+Give me the full picture on type 2 diabetes.,Second-line agents for Type 2 Diabetes management include GLP-1 receptor agonists.,SUPPORTED,SUPPORTED
+What blood pressure reading counts as stage 2 hypertension?,The definition of stage 2 hypertension is confirmed on repeated measurements.,SUPPORTED,SUPPORTED
+Tell me everything about how high blood pressure is managed.,Lifestyle measures for high blood pressure include sodium restriction.,SUPPORTED,SUPPORTED
+What's the most common germ behind community-acquired pneumonia?,Community-Acquired Pneumonia (CAP) is a type of pneumonia.,SUPPORTED,SUPPORTED
+"Explain asthma to me — causes, symptoms, and treatment.",Trigger avoidance is essential for long-term control of asthma.,SUPPORTED,SUPPORTED
